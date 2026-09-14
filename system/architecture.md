@@ -13,8 +13,8 @@
 ## Internal Shape
 Every Area and Project starts with `README.md`, `notes/`, and `reviews/`. Do not pre-create questions, decisions, plans, or synthesis folders. Questions begin in Working Records and are promoted only under the question protocol.
 
-## Learning Loop
-Real demand -> rough exploration -> practice and active recall -> feedback -> targeted supplementation -> re-practice -> transfer/creation -> review -> demand and strategy adjustment.
+## Learning Behavior
+The complete learning loop, capture contract, minimum action chain, and promotion thresholds are defined by [[system/protocols/learning-behavior]].
 
 ## Canonical Ownership
 Resources own external content; Areas/Projects own personal interpretation and work; central Reviews own cross-owner summaries; `progress.md` owns the current frontier and exact next step. No duplicate active copies.

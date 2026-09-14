@@ -21,9 +21,6 @@ Start with `AGENTS.md`, then use `system/index.md` to load only the protocol req
 
 ## Core Model
 
-```text
-real demand -> exploration -> practice -> feedback -> targeted learning
--> re-practice -> transfer -> review -> strategy adjustment
-```
+Learning turns real demand into independent performance through exploration, practice, feedback, targeted supplementation, re-practice, transfer, and review. The complete learning behavior model and capture contract live in `system/protocols/learning-behavior.md`.
 
 The system uses stable responsibilities for physical ownership. Lifecycle is represented by status, links, reviews, and archival decisions rather than by duplicating every topic into lifecycle folders.
