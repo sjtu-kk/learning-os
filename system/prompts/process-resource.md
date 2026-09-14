@@ -1,0 +1,1 @@
+Read `system/protocols/resource-processing.md` and `system/templates/resource.md`. For the supplied source, preserve provenance, classify Level 1 or Level 2, add valid YAML Properties and 3-5 existing tags, link only existing owners/questions, and output one canonical file under `resources/`. Do not invent owners or duplicate source text.

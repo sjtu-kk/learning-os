@@ -1,0 +1,30 @@
+.codex-tmp/
+
+# Keep raw source pages and captures, but omit browser-generated asset folders.
+raw/*_files/
+
+# This repository publishes the Learning OS skeleton only.
+# Personal vault content stays local.
+.obsidian/
+progress.md
+assets/*
+archive/*
+areas/*
+projects/*
+resources/*
+reviews/*
+inbox/*
+
+# Keep the public directory skeleton visible in GitHub.
+!assets/.gitkeep
+!archive/.gitkeep
+!areas/.gitkeep
+!projects/.gitkeep
+!resources/.gitkeep
+!resources/clippers/.gitkeep
+!resources/raw/.gitkeep
+!reviews/.gitkeep
+!reviews/daily/.gitkeep
+!reviews/monthly/.gitkeep
+!inbox/.gitkeep
+!inbox/notes/.gitkeep

@@ -1,0 +1,1 @@
+Read `system/protocols/working-notes.md`, `metadata-and-links.md`, and `system/templates/working-note.md`. Keep the original mixed record, determine one primary owner from existing Areas/Projects, add summary, Properties, tags, and wikilinks, and route uncertain notes to `inbox/notes/`. Do not create replacement copies or new owners.
